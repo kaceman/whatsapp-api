@@ -6,6 +6,8 @@ node app
 ```
 
 ### Body of the request
+method: POST
+
 ```json
 {
 	"phone": "+212612345678",
